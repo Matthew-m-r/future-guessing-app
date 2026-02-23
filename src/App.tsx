@@ -4,7 +4,7 @@ import './index.css';
 
 function App() {
     return (
-        <BrowserRouter>
+        <BrowserRouter basename="/future-guessing-app">
             <AppRoutes />
         </BrowserRouter>
     );
