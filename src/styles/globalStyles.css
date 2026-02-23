@@ -1,0 +1,15 @@
+:root {
+  --color-primary: #FAC638;
+  --color-background-light: #f8f8f5;
+  --color-background-dark: #231e0f;
+  --color-card-dim: #1a2629;
+  --color-mystic-gold: #ffd700;
+  
+  /* Gradient colors from .bg-mystic-gradient */
+  --color-mystic-gradient-start: #102a30;
+  --color-mystic-gradient-end: #050a0c;
+
+  /* Shadow colors extracted from tailwind config */
+  --shadow-cyan-glow: 0 0 15px rgba(13, 204, 242, 0.4);
+  --shadow-gold-glow: 0 0 12px rgba(255, 215, 0, 0.6);
+}
